@@ -6,7 +6,7 @@
 <div align="left">
   
 # 💫About Me :
-🔭 I’m currently working on my github page and some improving my python skills
+🔭 I’m currently working on my github page and my python skills
 
 🌱 I’m currently learning : the pythonic way of coding
 
