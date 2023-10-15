@@ -14,6 +14,8 @@
 
 📫 How to reach me:  <A HREF="https://www.linkedin.com/in/dr-stephan-hausberg-679750118/">LinkedIn Profile</A>
 
+📫 Also where I hang out is on medium.com:  <A HREF="https://medium.com/@stephanhausberg">My profile on medium.com</A>
+
 ⚡ Fun fact: data science is a continuous learning journey
 
 <!--
