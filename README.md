@@ -6,11 +6,6 @@
 <div align="left">
   
 # 💫About Me :
-🔭 I’m currently working on my github page and my python skills
-
-🌱 I’m currently learning : the pythonic way of coding
-
-💬 Ask me about for any help
 
 📫 How to reach me:  <A HREF="https://www.linkedin.com/in/dr-stephan-hausberg-679750118/">LinkedIn Profile</A>
 
